@@ -1,0 +1,7 @@
+C:\Users\LENOVO G50\source\repos\Reto 2\Reto 2\obj\Debug\Reto 2.csprojAssemblyReference.cache
+C:\Users\LENOVO G50\source\repos\Reto 2\Reto 2\obj\Debug\Reto 2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO G50\source\repos\Reto 2\Reto 2\bin\Debug\Reto 2.exe.config
+C:\Users\LENOVO G50\source\repos\Reto 2\Reto 2\bin\Debug\Reto 2.exe
+C:\Users\LENOVO G50\source\repos\Reto 2\Reto 2\bin\Debug\Reto 2.pdb
+C:\Users\LENOVO G50\source\repos\Reto 2\Reto 2\obj\Debug\Reto 2.exe
+C:\Users\LENOVO G50\source\repos\Reto 2\Reto 2\obj\Debug\Reto 2.pdb

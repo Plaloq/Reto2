@@ -1,0 +1,6 @@
+C:\Users\LENOVO G50\source\repos\Reto 2\LinkedListReto2\bin\Debug\LinkedListReto2.exe.config
+C:\Users\LENOVO G50\source\repos\Reto 2\LinkedListReto2\bin\Debug\LinkedListReto2.exe
+C:\Users\LENOVO G50\source\repos\Reto 2\LinkedListReto2\bin\Debug\LinkedListReto2.pdb
+C:\Users\LENOVO G50\source\repos\Reto 2\LinkedListReto2\obj\Debug\LinkedListReto2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO G50\source\repos\Reto 2\LinkedListReto2\obj\Debug\LinkedListReto2.exe
+C:\Users\LENOVO G50\source\repos\Reto 2\LinkedListReto2\obj\Debug\LinkedListReto2.pdb

@@ -48,7 +48,6 @@ namespace LinkedListReto2
                 currentNode = currentNode.getNext();
                 currentIndex++;
             }
-
             return currentNode.getData();
         }
 

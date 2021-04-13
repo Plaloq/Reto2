@@ -43,12 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Iterator.cs" />
-    <Compile Include="LinkedList.cs" />
-    <Compile Include="Node.cs" />
-    <Compile Include="Position.cs" />
-    <Compile Include="ReverseIterator.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="LinkedList\Iterator.cs" />
+    <Compile Include="LinkedList\LinkedList.cs" />
+    <Compile Include="LinkedList\Node.cs" />
+    <Compile Include="LinkedList\Position.cs" />
+    <Compile Include="LinkedList\ReverseIterator.cs" />
+    <Compile Include="LinkedList\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
